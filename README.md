@@ -9,8 +9,8 @@ https://mayhoo.github.io/CSE557_a4/a4.html
 √ 10 pts: Legend implemented and color mapping is appropriate.   
 √ 20 pts: Timeline implemented and cartogram updates when user selects dates.   
 √ 10 pts: States are colored by percentage win.   
-√ 5 pts:  Visualization posted online.   
-  Extra Points:
+√ 5 pts:  Visualization posted online.   
+--Extra Points:   
 √ 10 pts: Image added for each president.   
 √ 20 pts: Map implemented.   
   10 pts: Scaling Option A: User is able to scale cartogram by electoral votes.   
