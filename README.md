@@ -1,7 +1,7 @@
 # CSE557_a4
 
 https://mayhoo.github.io/CSE557_a4/a4.html
-![][https://raw.githubusercontent.com/MayHoo/CSE557_a4/master/a4.PNG]
+![](https://raw.githubusercontent.com/MayHoo/CSE557_a4/master/a4.PNG)
 
 √ 2 pts:  When unzipped, project runs without errors or modifications on our part.   
 √ 30 pts: Map displays data from file, states are accurately positioned.   
